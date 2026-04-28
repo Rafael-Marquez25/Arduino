@@ -26,4 +26,4 @@ Como funcionalidad extra, implementamos un sistema de control de intensidad indi
 
 ## Esquemático del circuito.
 ### Esquema del circuito
-![Esquema del circuito](/img/esquemaP2.png)
+![Esquema del circuito](img/esquemaP2.png)

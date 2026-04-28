@@ -27,7 +27,7 @@ Como funcionalidad extra, se añadió un zumbador conectado al pin 2, que emite 
 
 ## Esquemático del circuito.
 Esquema del circuito del ejercicio 1.
-![Esquema del circuito ejercicio 1.](/img/ejercicio_1.png)
+![Esquema del circuito ejercicio 1.](img/ejercicio_1.png)
 
 Esquema del circuito funcionalidad extra.
-![Esquema del circuito de la funcionalidad extra.](/img/funcionalidad_extra.png)
+![Esquema del circuito de la funcionalidad extra.](img/funcionalidad_extra.png)

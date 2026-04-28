@@ -24,5 +24,4 @@ En el caso del sensor PIR, fue necesario ajustar los potenciómetros de sensibil
 
 ## Esquemático del circuito.
 Esquema del circuito del ejercicio 1.  
-![Esquema del circuito ejercicio 1.](/img/ejercicio.png)
-
+![Esquema del circuito ejercicio 1.](img/ejercicio.png)

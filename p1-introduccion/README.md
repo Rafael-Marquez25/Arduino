@@ -20,8 +20,8 @@ Como funcionalidad extra, ampliamos el ejercicio inicial de un único LED y desa
 
 ## Esquema de los circuitos.
 ### Esquema Ejercicio.
-![Esquema Ejercicio](/img/ejercicio.png)
+![Esquema Ejercicio](img/ejercicio.png)
 
 ### Esquema Funcionalidad Extra.
-![Esquema Funcionalidad Extra](/img/funcionalidadExtra.png)
+![Esquema Funcionalidad Extra](img/funcionalidadExtra.png)
 **Nota**: En el esquema hay 4 leds rojos a pesar de que  en la realidad son 2 rojos y 2 amarillos, esto se debe a que en el Fritzing no encontre los leds amarillos

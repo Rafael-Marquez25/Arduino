@@ -23,7 +23,7 @@ Además, se implementó una funcionalidad extra que añade un botón de inicio p
 
 ## Esquemático del circuito.
 Esquema del circuito ejercicio 1.
-![Esquema del circuito ejercicio 1.](/img/ejercicio_1.png)
+![Esquema del circuito ejercicio 1.](img/ejercicio_1.png)
 
 Esquema del circuito funcionalidad extra.
-![Esquema del circuito ejercicio 1.](/img/funcionalidad_extra.png)
+![Esquema del circuito ejercicio 1.](img/funcionalidad_extra.png)

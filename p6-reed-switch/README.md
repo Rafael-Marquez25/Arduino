@@ -25,4 +25,4 @@ También fue necesario comprobar la orientación y posición del imán respecto 
 
 ## Esquemático del circuito.
 Esquema del circuito del ejercicio 1.
-![Esquema del circuito ejercicio 1.](/img/esquematico_ejercicio.png)
+![Esquema del circuito ejercicio 1.](img/esquematico_ejercicio.png)

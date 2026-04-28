@@ -27,10 +27,10 @@ Para la funcionalidad extra implementamos un sistema mediante el cual, cada vez 
 
 ## Esquematico del circuito .
 Esquema del circuito ejercicio 1.
-![Esquema del circuito ejercicio 1.](/img/esquematico_ejercicio_1.png)
+![Esquema del circuito ejercicio 1.](img/esquematico_ejercicio_1.png)
 
 Esquema del circuito ejercicio 2.
-![Esquema del circuito ejercicio 2.](/img/esquematico_ejercicio_2.png)
+![Esquema del circuito ejercicio 2.](img/esquematico_ejercicio_2.png)
 
 Esquema del circuito funcionalidad extra.
-![Esquema del circuito funcionalidad extra.](/img/esquematico_funcionalidad_extra.png)
+![Esquema del circuito funcionalidad extra.](img/esquematico_funcionalidad_extra.png)

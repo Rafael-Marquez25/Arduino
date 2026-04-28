@@ -37,7 +37,7 @@ Durante la práctica surgieron algunos problemas relacionados con:
 
 ## Esquemático del circuito
 Esquema del circuito del ejercicio 1.  
-![Esquema del circuito ejercicio 1.](/img/ejercicio-1.png)
+![Esquema del circuito ejercicio 1.](img/ejercicio-1.png)
 
 Esquema del circuito del ejercicio 2.  
-![Esquema del circuito ejercicio 1.](/img/ejercicio-2.png)
+![Esquema del circuito ejercicio 1.](img/ejercicio-2.png)

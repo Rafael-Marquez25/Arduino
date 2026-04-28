@@ -33,8 +33,8 @@ Durante la realización de la práctica, el principal reto fue el calibrado prec
 
 ## Esquemático del circuito
 Esquema del circuito del ejercicio 1 y 2.  
-![Esquema del circuito ejercicio 1 y 2.](/img/esquematico_ejercicio_1_2.png)
+![Esquema del circuito ejercicio 1 y 2.](img/esquematico_ejercicio_1_2.png)
 
 Esquema del circuito del ejercicio 3.  
-![Esquema del circuito ejercicio 3.](/img/esquematico_ejercicio3.png)
+![Esquema del circuito ejercicio 3.](img/esquematico_ejercicio3.png)
 Nota: en Fritzing no habia un sevor con feedback asi que se representa con el cable azul del esquematico aunque el servo no tenga ese pin.
